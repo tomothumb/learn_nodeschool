@@ -1,0 +1,1 @@
+This is demo module for 'how-to-npm.

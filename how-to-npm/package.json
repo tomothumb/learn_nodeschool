@@ -1,0 +1,18 @@
+{
+  "name": "@tomothumb/how-to-npm-2015",
+  "version": "1.0.2",
+  "description": "demo",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "README.md"
+  },
+  "scripts": {
+    "test": "node tst.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {}
+}
