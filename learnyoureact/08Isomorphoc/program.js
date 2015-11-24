@@ -40,7 +40,7 @@ app.use('/bundle.js', function (req, res) {
         .transform(babelify.configure({
             presets: ["react", "es2015"]
         }))
-        .require("./app.js", { entry: true })
+        .require("./08Isomorphoc/app.js", { entry: true })
         .bundle()
         .pipe(res);
 });
